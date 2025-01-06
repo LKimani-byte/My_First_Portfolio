@@ -1,0 +1,49 @@
+/* Custom styles for your website */
+nav {
+    background-color: #555;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+.main-content {
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.article {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+.article h2 {
+    color: #007bff;
+}
+
+.article p {
+    color: #333;
+}
+
+footer {
+    background-color: #222;
+    color: #ddd;
+    padding: 10px;
+    text-align: center;
+}
+
+footer p {
+    margin: 0;
+}
